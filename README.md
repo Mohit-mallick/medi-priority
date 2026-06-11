@@ -3,7 +3,7 @@
 ### AI-Powered Patient Prioritization & Healthcare Management System
 
 <p align="center">
-  <img src="Docs/MediPriority.png" alt="MediPriority Workflow" width="900">
+  <img src="MediPriority.png" alt="MediPriority Workflow" width="900">
 </p>
 
 ## Making Healthcare Smarter, Faster, and More Accessible
